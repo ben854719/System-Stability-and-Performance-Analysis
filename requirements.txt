@@ -1,0 +1,9 @@
+boto3
+langchain
+langgraph
+langsmith
+pyjwt
+cryptography
+requests
+pydantic
+google-generativeai
