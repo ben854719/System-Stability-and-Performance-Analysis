@@ -2,7 +2,7 @@
 
 ## Objective:
 
-The system stability and performance analysis features a self-service “Fix My App” workflow with an AWS Lambda backend and Agentic AI that diagnoses issues in real time and suggests fixes. It checks for common problems like network instability, corrupted cache, outdated versions, and expired tokens. RS256 encryption secures logins, while smart session recovery and crash-aware restart maintain user sessions and restore previous states. Key metrics include Crash-Free Sessions Rate (98%+), Login Success Rate (+15%), Average Recovery Time, Automated Issue Resolution Rate (40%+ of incidents), and a 30% reduction in support tickets within 90 days, demonstrating improved reliability, security, and user trust.
+The system stability and performance analysis features a self-service application workflow with an AWS Lambda backend and Agentic AI that diagnoses issues in real time and suggests fixes. It checks for common problems like network instability, corrupted cache, outdated versions, and expired tokens. RS256 encryption secures logins, while smart session recovery and crash-aware restart maintain user sessions and restore previous states. Key metrics include Crash-Free Sessions Rate (98%+), Login Success Rate (+15%), Average Recovery Time, Automated Issue Resolution Rate (40%+ of incidents), and a 30% reduction in support tickets within 90 days, demonstrating improved reliability, security, and user trust.
 
 ## Video of the project:
 
