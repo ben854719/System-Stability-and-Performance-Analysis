@@ -3,5 +3,6 @@ langchain
 langgraph
 langsmith
 requests
-pydantic
+MCP Server
+Fastmcp
 google-generativeai
