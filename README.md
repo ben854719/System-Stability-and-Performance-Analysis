@@ -69,7 +69,7 @@ The system stability and performance analysis features a self-service applicatio
 
 ## AWS Lambda Installation for Google Colab:
 
-- To support rapid prototyping, the system includes a lightweight setup that allows Google Colab to interact with AWS Lambda. Developers can install the AWS CLI and boto3      directly in Colab, authenticate using IAM credentials, and deploy or invoke Lambda functions from the notebook environment. This enables fast iteration on backend logic,     real‑time testing of diagnostic workflows, and smooth integration with the RS256‑secured authentication pipeline.
+- To support rapid prototyping, the system includes a lightweight setup that allows Google Colab to interact with AWS Lambda. Developers can install the AWS CLI directly in    Colab, authenticate using IAM credentials, and deploy or invoke Lambda functions from the notebook environment. This enables fast iteration on backend logic, real‑time       testing of diagnostic workflows, and smooth integration with the RS256‑secured authentication pipeline.
 
 ## LangChain + LangGraph + LangSmith Integration (Prototype Version):
 
