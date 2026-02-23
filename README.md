@@ -6,6 +6,8 @@ The system stability and performance analysis features a self-service applicatio
 
 ## Video of the project:
 
+https://github.com/user-attachments/assets/5a61156f-1fab-4bb8-9324-52b9eafe05a1
+
 ## Key Features:
 
 ## System Stability and Performance Analysis:
